@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <style>
+    .st0{fill:#F5F7FA}.st1{fill:#DCE3ED}.st2{fill:#FFFFFF}.st3{fill:#4E73DF}.st4{fill:#224ABE}.st5{fill:#1A88FF}
+  </style>
+  <path class="st0" d="M145.7 469.6v81.5h508.6v-81.5z"/>
+  <path class="st1" d="M248.6 469.6H145.7v81.5h102.9v-81.5zM551.4 469.6v81.5h102.9v-81.5H551.4z"/>
+  <path class="st2" d="M145.7 192.9L400 48.9l254.3 144v276.7H145.7V192.9z"/>
+  <path class="st3" d="M157.1 196.4v264.5h485.8V196.4L400 61.7 157.1 196.4z"/>
+  <path class="st2" d="M400 61.7l-242.9 134.7v52.9L400 114.6l242.9 134.7v-52.9L400 61.7z"/>
+  <path class="st4" d="M400 124.3L202.9 236.9v224.1h394.3V236.9L400 124.3zM214.3 447.5V249L400 141.1 585.7 249v198.5H214.3z"/>
+  <path class="st2" d="M202.9 224.1L400 111.5l197.1 112.6v12.5L400 124.3 202.9 236.9v-12.8z"/>
+  <path class="st2" d="M267.1 447.5h265.8V277.2L400 179.8 267.1 277.2v170.3z"/>
+  <path class="st5" d="M361.4 277.3h77.2v77.2h-77.2z"/>
+  <path class="st4" d="M376.5 292.4h46.9v46.9h-46.9z"/>
+  <path class="st5" d="M510.1 447.5h-65.5V354h65.5v93.5z"/>
+  <path class="st4" d="M466.2 385.8h22.3v61.7h-22.3z"/>
+  <path class="st5" d="M355.4 447.5h-65.5V354h65.5v93.5z"/>
+  <path class="st4" d="M311.5 385.8h22.3v61.7h-22.3z"/>
+</svg>

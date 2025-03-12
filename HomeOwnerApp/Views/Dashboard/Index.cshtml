@@ -1,0 +1,25 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h4>Welcome, @Model.FirstName!</h4>
+            </div>
+            <div class="card-body">
+                <p>Current Date: @DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss")</p>
+                <p>Account created on: @Model.CreatedDate.ToString("yyyy-MM-dd")</p>
+                <p>Email: @Model.Email</p>
+                <hr />
+                <div class="d-flex justify-content-between">
+                    <a asp-action="Profile" class="btn btn-primary">View Profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

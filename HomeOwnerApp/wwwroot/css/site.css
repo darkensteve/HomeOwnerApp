@@ -1,0 +1,110 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Custom styles for HomeOwnerApp */
+
+/* Hero Section Styles */
+.hero-section {
+    background: linear-gradient(135deg, #4e73df 0%, #224abe 100%);
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/img/pattern.png');
+    opacity: 0.1;
+    z-index: 0;
+}
+
+.z-index-1 {
+    z-index: 1;
+}
+
+/* Feature Icons */
+.feature-icon {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+/* Card Hover Effect */
+.hover-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+    .hover-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    }
+
+/* Testimonial styling */
+.testimonial-item {
+    padding: 20px;
+}
+
+.testimonial-img img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+/* Animation classes (requires animate.css) */
+.animate__animated {
+    --animate-duration: 1s;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero-section {
+        min-height: 500px;
+        text-align: center;
+    }
+}
+
+/* Stats section styling */
+.stat-item h2 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Footer styling */
+footer a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+
+    footer a:hover {
+        color: #fff;
+    }

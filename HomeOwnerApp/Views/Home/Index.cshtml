@@ -1,0 +1,214 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Hero Section with Gradient Background -->
+<div class="hero-section position-relative">
+    <div class="hero-overlay"></div>
+    <div class="container py-5 position-relative z-index-1">
+        <div class="row align-items-center">
+            <div class="col-lg-6 text-center text-lg-start mb-5 mb-lg-0">
+                <h1 class="display-4 fw-bold text-white mb-3 animate__animated animate__fadeInUp">Welcome to HomeOwnerApp</h1>
+                <p class="lead text-white-50 mb-4 animate__animated animate__fadeInUp animate__delay-1s">Your complete home management solution designed for modern homeowners</p>
+
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <div class="animate__animated animate__fadeInUp animate__delay-2s">
+                        <p class="text-white mb-4">Welcome back! Continue managing your home.</p>
+                        <a asp-controller="Dashboard" asp-action="Index" class="btn btn-primary btn-lg px-4 me-3">
+                            <i class="bi bi-speedometer2 me-2"></i> Go to Dashboard
+                        </a>
+                    </div>
+                }
+                else
+                {
+                    <div class="d-grid gap-3 d-sm-flex animate__animated animate__fadeInUp animate__delay-2s">
+                        <a asp-controller="Account" asp-action="Register" class="btn btn-outline-light btn-lg px-4">
+                            <i class="bi bi-person-plus me-2"></i> Register
+                        </a>
+                        <a asp-controller="Account" asp-action="Login" class="btn btn-primary btn-lg px-4">
+                            <i class="bi bi-box-arrow-in-right me-2"></i> Login
+                        </a>
+                    </div>
+                }
+            </div>
+            <div class="col-lg-6 d-none d-lg-block animate__animated animate__fadeInRight">
+                <img src="~/img/house-illustration.svg" alt="Home Management" class="img-fluid"
+                     onerror="this.src='https://via.placeholder.com/600x400/6c757d/fff?text=HomeOwnerApp';this.onerror='';">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Features Section -->
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold">Why Choose HomeOwnerApp?</h2>
+        <p class="text-muted">Everything you need to manage your home in one place</p>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-md-4 animate__animated animate__fadeInUp">
+            <div class="card h-100 shadow-sm hover-card">
+                <div class="card-body text-center">
+                    <div class="feature-icon bg-primary bg-gradient text-white rounded-3 mb-3">
+                        <i class="bi bi-house-heart fs-1"></i>
+                    </div>
+                    <h5 class="card-title">Home Management</h5>
+                    <p class="card-text text-muted">Keep track of all your home-related documents, warranties, and important information.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 animate__animated animate__fadeInUp animate__delay-1s">
+            <div class="card h-100 shadow-sm hover-card">
+                <div class="card-body text-center">
+                    <div class="feature-icon bg-success bg-gradient text-white rounded-3 mb-3">
+                        <i class="bi bi-calendar-check fs-1"></i>
+                    </div>
+                    <h5 class="card-title">Maintenance Reminders</h5>
+                    <p class="card-text text-muted">Never miss important home maintenance tasks with our smart reminder system.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 animate__animated animate__fadeInUp animate__delay-2s">
+            <div class="card h-100 shadow-sm hover-card">
+                <div class="card-body text-center">
+                    <div class="feature-icon bg-info bg-gradient text-white rounded-3 mb-3">
+                        <i class="bi bi-graph-up fs-1"></i>
+                    </div>
+                    <h5 class="card-title">Expense Tracking</h5>
+                    <p class="card-text text-muted">Track and analyze your home-related expenses to better manage your budget.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Testimonial Section -->
+<div class="bg-light py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="text-center">
+                    <h2 class="fw-bold mb-4">What Our Users Say</h2>
+                    <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="testimonial-item">
+                                    <blockquote class="blockquote mb-4">
+                                        <p><i class="bi bi-quote text-primary me-2"></i>HomeOwnerApp has completely transformed how I manage my home. Everything is organized in one place!</p>
+                                    </blockquote>
+                                    <div class="d-flex justify-content-center">
+                                        <div class="testimonial-img me-3">
+                                            <img src="https://via.placeholder.com/50" class="rounded-circle" alt="User">
+                                        </div>
+                                        <div class="testimonial-author text-start">
+                                            <h5 class="mb-1">Jennifer K.</h5>
+                                            <p class="text-muted small mb-0">Homeowner since 2023</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="testimonial-item">
+                                    <blockquote class="blockquote mb-4">
+                                        <p><i class="bi bi-quote text-primary me-2"></i>The maintenance reminders have saved me thousands in preventable repairs. Highly recommended!</p>
+                                    </blockquote>
+                                    <div class="d-flex justify-content-center">
+                                        <div class="testimonial-img me-3">
+                                            <img src="https://via.placeholder.com/50" class="rounded-circle" alt="User">
+                                        </div>
+                                        <div class="testimonial-author text-start">
+                                            <h5 class="mb-1">Michael R.</h5>
+                                            <p class="text-muted small mb-0">Homeowner since 2022</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CTA Section -->
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card border-0 shadow rounded-3 overflow-hidden">
+                <div class="card-body p-0">
+                    <div class="row g-0">
+                        <div class="col-md-6 p-5 d-flex align-items-center">
+                            <div>
+                                <h2 class="fw-bold">Ready to get started?</h2>
+                                <p class="text-muted mb-4">Join thousands of homeowners who are already managing their homes more efficiently.</p>
+                                <a asp-controller="Account" asp-action="Register" class="btn btn-primary">Create Free Account</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 d-none d-md-block">
+                            <div class="bg-image h-100" style="background-image: url('https://via.placeholder.com/800x600/6c757d/fff?text=HomeOwnerApp'); background-size: cover; background-position: center;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Stats Section -->
+<div class="bg-dark text-white py-5">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-4 mb-4 mb-md-0">
+                <div class="stat-item">
+                    <h2 class="fw-bold text-primary">10,000+</h2>
+                    <p>Active Users</p>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4 mb-md-0">
+                <div class="stat-item">
+                    <h2 class="fw-bold text-primary">95%</h2>
+                    <p>Customer Satisfaction</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="stat-item">
+                    <h2 class="fw-bold text-primary">24/7</h2>
+                    <p>Customer Support</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Current Date & Time -->
+<div class="container-fluid bg-light py-3 text-center">
+    <p class="text-muted mb-0 small">Current Date and Time (UTC): 2025-03-08 07:52:24</p>
+</div>
+
+@section Scripts {
+    <script>
+        // Initialize any JavaScript functionality here
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add smooth scroll for anchor links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    document.querySelector(this.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                });
+            });
+        });
+    </script>
+}
