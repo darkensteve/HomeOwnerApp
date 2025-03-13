@@ -1,0 +1,33 @@
+﻿@model Tuple<ApplicationUser, List<HomeOwnerApp.Models.Homeowner>>
+
+@{
+    ViewData["Title"] = "Admin Panel";
+    var user = Model.Item1;
+    var homeowners = Model.Item2;
+}
+
+<h1>Admin Panel - Homeowners</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var homeowner in homeowners)
+        {
+            <tr>
+                <td>@homeowner.Id</td>
+                <td>@homeowner.Name</td>
+                <td>@homeowner.Email</td>
+                <td>@homeowner.Phone</td>
+                <td>@homeowner.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>

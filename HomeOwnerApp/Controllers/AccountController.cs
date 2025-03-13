@@ -23,17 +23,18 @@ namespace HomeOwnerApp.Controllers
         }
 
         [HttpGet]
-        public IActionResult Login(string returnUrl = null)
+        public IActionResult Login(string? returnUrl = null) // 🔹 Allow null values
         {
-            ViewData["ReturnUrl"] = returnUrl;
+            ViewData["ReturnUrl"] = returnUrl ?? string.Empty; // 🔹 Ensure returnUrl is not null
             return View();
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Login(LoginViewModel model, string returnUrl = null)
+        public async Task<IActionResult> Login(LoginViewModel model, string? returnUrl = null) // 🔹 Allow null
         {
-            ViewData["ReturnUrl"] = returnUrl;
+            ViewData["ReturnUrl"] = returnUrl ?? string.Empty; // 🔹 Default empty string
+
             if (ModelState.IsValid)
             {
                 var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, lockoutOnFailure: true);
@@ -57,17 +58,18 @@ namespace HomeOwnerApp.Controllers
         }
 
         [HttpGet]
-        public IActionResult Register(string returnUrl = null)
+        public IActionResult Register(string? returnUrl = null) // 🔹 Allow null
         {
-            ViewData["ReturnUrl"] = returnUrl;
+            ViewData["ReturnUrl"] = returnUrl ?? string.Empty;
             return View();
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Register(RegisterViewModel model, string returnUrl = null)
+        public async Task<IActionResult> Register(RegisterViewModel model, string? returnUrl = null) // 🔹 Allow null
         {
-            ViewData["ReturnUrl"] = returnUrl;
+            ViewData["ReturnUrl"] = returnUrl ?? string.Empty;
+
             if (ModelState.IsValid)
             {
                 var user = new ApplicationUser
@@ -115,9 +117,9 @@ namespace HomeOwnerApp.Controllers
             return View();
         }
 
-        private IActionResult RedirectToLocal(string returnUrl)
+        private IActionResult RedirectToLocal(string? returnUrl) // 🔹 Allow null
         {
-            if (Url.IsLocalUrl(returnUrl))
+            if (!string.IsNullOrEmpty(returnUrl) && Url.IsLocalUrl(returnUrl))
             {
                 return Redirect(returnUrl);
             }

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using HomeOwnerApp.Models;
 
+
 namespace HomeOwnerApp.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
@@ -13,6 +14,7 @@ namespace HomeOwnerApp.Data
 
         // Add your additional DbSets here if needed
 
+        public DbSet<Homeowner> Homeowners { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

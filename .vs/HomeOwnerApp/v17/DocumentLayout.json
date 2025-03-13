@@ -1,110 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\",
+  "WorkspaceRootPath": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\admin\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\admin\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\wwwroot\\img\\house-illustration.svg||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\wwwroot\\img\\house-illustration.svg||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\models\\homeowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\homeowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\homeownerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\homeownerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\dashboard\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\dashboard\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\dashboard\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\migrations\\20250308074759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\migrations\\20250308074759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\wwwroot\\img\\house-illustration.svg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\wwwroot\\img\\house-illustration.svg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\yy111\\source\\repos\\homeownerapp\\homeownerapp\\migrations\\20250308074759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\migrations\\20250308074759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|c:\\users\\seanj\\source\\repos\\darkensteve\\homeownerapp\\homeownerapp\\homeownerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BAF6007-C910-40FD-A7A4-9EBDF4F708B7}|HomeOwnerApp\\HomeOwnerApp.csproj|solutionrelative:homeownerapp\\homeownerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,51 +130,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "house-illustration.svg",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
-              "RelativeToolTip": "HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-03-08T07:57:05.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "HomeOwnerApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-08T07:55:58.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250308074759_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
-              "RelativeToolTip": "HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAkAAAAAAAAAA==",
+              "Title": "Homeowner.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\Homeowner.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\Homeowner.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\Homeowner.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Models\\Homeowner.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:47:59.791Z"
+              "WhenOpened": "2025-03-13T17:37:38.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:34:55.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Admin\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Admin\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Admin\\Admin.cshtml.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Views\\Admin\\Admin.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:31:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Admin\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "HomeOwnerApp\\Views\\Admin\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T17:30:57.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:31:51.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Program.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Program.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:30:32.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:41:18.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:37:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Data\\SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Data\\SeedData.cs",
               "RelativeToolTip": "HomeOwnerApp\\Data\\SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,59 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T07:38:34.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
-              "RelativeToolTip": "HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T07:38:21.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "HomeOwnerApp\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T07:37:57.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "HomeOwnerApp\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T07:37:35.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -227,11 +263,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HomeOwnerApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:37:35.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,11 +287,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:32:25.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:32:54.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
+              "RelativeToolTip": "HomeOwnerApp\\Views\\Dashboard\\Profile.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:38:21.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HomeOwnerApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:38:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250308074759_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
+              "RelativeToolTip": "HomeOwnerApp\\Migrations\\20250308074759_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:47:59.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HomeOwnerApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-08T07:55:58.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "house-illustration.svg",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
+              "RelativeDocumentMoniker": "HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
+              "RelativeToolTip": "HomeOwnerApp\\wwwroot\\img\\house-illustration.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-08T07:57:05.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -251,11 +385,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -263,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -275,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -287,24 +421,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HomeOwnerApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T07:33:53.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T07:33:53.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "HomeOwnerApp\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,24 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "HomeOwnerApp\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwC4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:33:24.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "HomeOwnerApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "HomeOwnerApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,61 +469,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "HomeOwnerApp\\Models\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:32:54.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "HomeOwnerApp\\Models\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:32:25.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "HomeOwnerApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:31:51.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 27,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "HomeOwnerApp\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "HomeOwnerApp\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:31:12.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T07:31:12.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\appsettings.json",
               "RelativeDocumentMoniker": "HomeOwnerApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\appsettings.json",
               "RelativeToolTip": "HomeOwnerApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -411,24 +493,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Program.cs",
-              "RelativeDocumentMoniker": "HomeOwnerApp\\Program.cs",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\Program.cs",
-              "RelativeToolTip": "HomeOwnerApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:30:32.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "HomeOwnerApp.csproj",
-              "DocumentMoniker": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\HomeOwnerApp.csproj",
+              "DocumentMoniker": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\HomeOwnerApp.csproj",
               "RelativeDocumentMoniker": "HomeOwnerApp\\HomeOwnerApp.csproj",
-              "ToolTip": "C:\\Users\\YY111\\source\\repos\\HomeOwnerApp\\HomeOwnerApp\\HomeOwnerApp.csproj",
+              "ToolTip": "C:\\Users\\seanj\\source\\repos\\darkensteve\\HomeOwnerApp\\HomeOwnerApp\\HomeOwnerApp.csproj",
               "RelativeToolTip": "HomeOwnerApp\\HomeOwnerApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
